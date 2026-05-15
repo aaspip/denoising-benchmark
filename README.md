@@ -137,6 +137,10 @@ Notebook:
 Notebook:  
 [coh2d notebook](https://github.com/aaspip/denoising-benchmark/blob/main/coh2d/coh2d.ipynb)
 
+<p align="center">
+<img src="https://github.com/aaspip/gallery/blob/main/denoising-benchmark/coh2d.png" width="960"/>
+</p>
+
 ---
 
 ## 4. `edge`
@@ -145,6 +149,10 @@ Notebook:
 
 Notebook:  
 [edge notebook](https://github.com/aaspip/denoising-benchmark/blob/main/edge/edge.ipynb)
+
+<p align="center">
+<img src="https://github.com/aaspip/gallery/blob/main/denoising-benchmark/edge.png" width="960"/>
+</p>
 
 ---
 
@@ -155,6 +163,10 @@ Synthetic nonlinear seismic benchmark with sigmoid-shaped events and incoherent 
 Notebook:  
 [sigmoid notebook](https://github.com/aaspip/denoising-benchmark/blob/main/sigmoid/sigmoid.ipynb)
 
+<p align="center">
+<img src="https://github.com/aaspip/gallery/blob/main/denoising-benchmark/sigmoid.png" width="960"/>
+</p>
+
 ---
 
 ## 6. `viking2d`
@@ -164,6 +176,10 @@ Real marine seismic benchmark for multiple attenuation and field-data denoising 
 Notebook:  
 [viking2d notebook](https://github.com/aaspip/denoising-benchmark/blob/main/viking2d/viking2d.ipynb)
 
+<p align="center">
+<img src="https://github.com/aaspip/gallery/blob/main/denoising-benchmark/viking2d.png" width="960"/>
+</p>
+
 ---
 
 ## 7. `sean3d`
@@ -172,6 +188,10 @@ Real 3D seismic benchmark for interpolation and denoising research.
 
 Notebook:  
 [sean3d notebook](https://github.com/aaspip/denoising-benchmark/blob/main/sean3d/sean3d.ipynb)
+
+<p align="center">
+<img src="https://github.com/aaspip/gallery/blob/main/denoising-benchmark/sean3d.png" width="960"/>
+</p>
 
 ---
 
